@@ -2,3 +2,29 @@
 body{
     font-family: 'Nunito', sans-serif;
 }
+.container {
+    padding-left:lrem;
+    padding right:lrem;
+}
+.container center{
+    new width:600px;
+    origin: auto;
+}
+h1{
+    color:green;
+}
+.link{
+    text-decoration:none;
+    padding: 0.5rem 1 rem;
+
+}
+.primary-link{
+    background-color:var(--primary-color);
+    border-radius:0.5;
+    color:white;
+}
+.secondary-link{
+    background-color:var(--primary-color);
+    border-radius=0.5;
+    color:white;
+}
